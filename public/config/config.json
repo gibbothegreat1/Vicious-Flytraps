@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x773A464b486eB77F4B8f8e1a9209E283Dc3CE0A3",
+  "SCAN_LINK": "https://etherscan.io/address/0x773A464b486eB77F4B8f8e1a9209E283Dc3CE0A3",
+  "NETWORK": {
+    "NAME": "Etherium",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Vicious Flytraps NFT",
+  "SYMBOL": "Flytrap",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/vicious-flytraps-nft",
+  "SHOW_BACKGROUND": true
+}
