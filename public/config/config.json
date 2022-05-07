@@ -1,13 +1,18 @@
 {
+  "CONTRACT_ADDRESS": "0x9D34B55c030f3f272D047c1C756241f843c4546e",
+  "SCAN_LINK": "https://etherscan.io/address/0x9D34B55c030f3f272D047c1C756241f843c4546e",
   "NETWORK": {
-    "NAME": "Solana",
-    "SYMBOL": "SOL",
+    "NAME": "Etherium",
+    "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Fashionable Flytraps NFT",
+  "NFT_NAME": "Vicious Flytraps NFT",
   "SYMBOL": "Flytrap",
   "MAX_SUPPLY": 7777,
-  "DISPLAY_COST": 1,
-  "MARKETPLACE": "Magic Eden",
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/vicious-flytraps",
   "SHOW_BACKGROUND": true
 }
