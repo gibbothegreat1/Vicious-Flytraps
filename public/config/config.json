@@ -13,5 +13,6 @@
   "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Magic Eden",
+  "MARKETPLACE_LINK": "https://https://www.magiceden.io/",
   "SHOW_BACKGROUND": true
 }
